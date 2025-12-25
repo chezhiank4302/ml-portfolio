@@ -1,2 +1,2 @@
-# ml-portfolio
-A curated machine learning portfolio featuring end-to-end projects across core ML domains, built with production-style workflows, strong evaluation practices, and real-world business context.
+# Machine Learning Portfolio
+This repository contains a curated collection of end-to-end machine learning projects spanning core ML domains. Each project is designed to mirror real-world ML workflows, focusing on problem framing, data understanding, feature engineering, model evaluation, and business-driven insights.
