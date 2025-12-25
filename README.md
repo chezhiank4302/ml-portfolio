@@ -18,6 +18,7 @@ Each project is treated as something I’d be comfortable explaining to a teamma
 
 Projects are grouped by topic so it’s easy to explore a specific area of machine learning:
 
+```text
 ml-portfolio/
 │
 ├── 00-setup-and-guidelines/     # Environment setup, templates, coding standards
@@ -35,6 +36,7 @@ ml-portfolio/
 ├── datasets/                    # Small or sample datasets
 ├── utils/                       # Reusable helper functions
 └── README.md
+```
 
 Each individual project follows a consistent structure, so the focus stays on the problem, not on navigating the code.
 
