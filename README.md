@@ -36,6 +36,16 @@ ml-portfolio/
 ├── utils/                       # Reusable helper functions
 └── README.md
 
+01-supervised-learning        Classification and regression
+02-unsupervised-learning      Clustering and dimensionality reduction
+03-feature-engineering        Feature creation and selection
+04-model-evaluation           Metrics, explainability, error analysis
+05-time-series                Forecasting problems
+06-nlp                        Text-based machine learning
+07-computer-vision            Image-based projects
+08-anomaly-detection          Imbalanced data and anomalies
+09-recommendation-systems     Recommender systems
+10-ml-system-design-lite      Lightweight ML system design concepts
 
 Each individual project follows a consistent structure, so the focus stays on the problem, not on navigating the code.
 
